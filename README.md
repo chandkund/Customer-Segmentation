@@ -61,9 +61,5 @@ The project outputs various insights, including:
 - Visualization of clusters based on different customer characteristics.
 - Recommendations for targeted marketing strategies based on segment analysis.
 
-Example visualizations and detailed findings are available in the `results/` directory.
-
-.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
